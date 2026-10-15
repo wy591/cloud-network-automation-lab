@@ -25,7 +25,8 @@
 
 ## 🗺️ 网络拓扑
 
-*（此处插入 EVE-NG 拓扑截图）*
+<img width="1019" height="576" alt="image" src="https://github.com/user-attachments/assets/f9810716-be3e-48d4-a407-8bb30e4f2a68" />
+
 
 - **CE12800-CE1**：核心交换机，管理 IP `192.168.14.20`
 - **CE12800-CE2**：核心交换机，管理 IP `192.168.14.30`
